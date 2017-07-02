@@ -1,9 +1,9 @@
 # Battle Tank
-An open world head to head player vs AI tank game with terrain and an advanced control system in UE4. This is part of the Complete Unreal Creator course on Udemy. See [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial). Yoga pants[this](http://www.flexilexi-fitness.com/uploads/2/6/5/1/26513981/s835442298351925863_p117_i2_w2448.jpeg)
+Battle Tanks, is an Open World, head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4. This is part of the Unreal C++ Course on Udemy. See [here](https://www.udemy.com/unrealcourse/learn/v4/overview).
 
-These files are my own work while following the tutorial series. You're welcome to download, fork or do whatever else legal with all the files!
+The files included in this Repo are part of the tutorial series, as well as some of my own work.
 
-Dan Szabo
+Rushing Vice
 
 ...
 ## Lecture list
