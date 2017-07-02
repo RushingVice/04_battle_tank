@@ -8,3 +8,5 @@ Rushing Vice
 ...
 ## Lecture list
 * BT01 Intro, Notes & Assets
+* BT02 Game Design Document (GDD)
+ 
