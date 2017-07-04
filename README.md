@@ -14,4 +14,5 @@ Rushing Vice
 * BT05 Sculpting landscape
 * BT06 Low poly landscape
 * BT07 Adding Tank
+* BT08 Added camera control
  
