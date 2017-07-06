@@ -18,3 +18,4 @@ Rushing Vice
 * BT09 User Interface
 * BT10 Main Menu
 * BT11 Controller Ready Navigation (NOT WORKING PROPERLY)
+* BT12 Trial Packaging Your Game (Previous topic fixed - don't ask how)
