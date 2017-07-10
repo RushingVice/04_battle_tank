@@ -21,3 +21,4 @@ Rushing Vice
 * BT12 Trial Packaging Your Game (Previous topic fixed - don't ask how)
 * BT13 Delegating to Components
 * BT14 Using virtual and override
+* BT15 Creating an AI Controller Class
