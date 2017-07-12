@@ -22,3 +22,4 @@ Rushing Vice
 * BT13 Delegating to Components
 * BT14 Using virtual and override
 * BT15 Creating an AI Controller Class
+* BT16 Get the Player Controller with C++
