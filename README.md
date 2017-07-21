@@ -24,3 +24,4 @@ Rushing Vice
 * BT15 Creating an AI Controller Class
 * BT16 Get the Player Controller with C++
 * BT17 Add Tick() to PlayerController
+* BT18 Creating an Out Parameter Method
