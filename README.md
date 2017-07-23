@@ -23,5 +23,6 @@ Rushing Vice
 * BT14 Using virtual and override
 * BT15 Creating an AI Controller Class
 * BT16 Get the Player Controller with C++
+* BT17 Finding Screen Pixel Coordinates
 * BT17 Add Tick() to PlayerController
 * BT18 Creating an Out Parameter Method
