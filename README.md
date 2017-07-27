@@ -28,3 +28,4 @@ Rushing Vice
 * BT17 Add Tick() to PlayerController
 * BT18 Creating an Out Parameter Method
 * BT19 Using LineTraceSingleByChannel
+* BT20 Unify Player & AI Aiming
