@@ -31,3 +31,4 @@ Rushing Vice
 * BT20 Unify Player & AI Aiming
 * BT21 Create Default Sub Objects in C++
 * BT22 BlueprintCallable()
+* BT23 SuggestProjectileVelocity()
