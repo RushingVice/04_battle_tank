@@ -30,3 +30,4 @@ Rushing Vice
 * BT19 Using LineTraceSingleByChannel
 * BT20 Unify Player & AI Aiming
 * BT21 Create Default Sub Objects in C++
+* BT22 BlueprintCallable()
