@@ -32,3 +32,4 @@ Rushing Vice
 * BT21 Create Default Sub Objects in C++
 * BT22 BlueprintCallable()
 * BT23 SuggestProjectileVelocity()
+* BT24 Predict Projectile Landing Point
