@@ -33,3 +33,4 @@ Rushing Vice
 * BT22 BlueprintCallable()
 * BT23 SuggestProjectileVelocity()
 * BT24 Predict Projectile Landing Point
+* BT25 Using FRotators in Unreal
