@@ -37,3 +37,4 @@ Rushing Vice
 * BT26 Using Forward Declarations
 * BT27 BlueprintSpawnableComponent()
 * BT28 Review Our Execution Flow
+* BT29 Using Clamp() to Limit Values
