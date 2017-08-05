@@ -35,3 +35,4 @@ Rushing Vice
 * BT24 Predict Projectile Landing Point
 * BT25 Using FRotators in Unreal
 * BT26 Using Forward Declarations
+* BT27 BlueprintSpawnableComponent()
