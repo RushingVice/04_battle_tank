@@ -39,3 +39,4 @@ Rushing Vice
 * BT28 Review Our Execution Flow
 * BT29 Using Clamp() to Limit Values
 * BT30 CHALLENGE - Turret Rotation Pt.1
+* BT31 Setting Up Projectiles
