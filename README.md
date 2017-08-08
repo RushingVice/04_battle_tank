@@ -41,3 +41,4 @@ Rushing Vice
 * BT30 CHALLENGE - Turret Rotation Pt.1
 * BT31 Setting Up Projectiles
 * BT32 Using SpawnActor<>() to Spawn
+* BT33 UProjectileMovementComponent
