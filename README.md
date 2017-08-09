@@ -43,3 +43,19 @@ Rushing Vice
 * BT32 Using SpawnActor<>() to Spawn
 * BT33 UProjectileMovementComponent
 * BT34 Making AI Tanks Fire
+* BT35 EditAnywhere vs EditDefaultsOnly
+* BT36
+* BT37
+* BT38
+* BT39
+* BT40
+* BT41
+* BT42
+* BT43
+* BT44
+* BT45
+* BT46
+* BT47
+* BT48
+* BT49
+* BT50
