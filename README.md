@@ -45,7 +45,7 @@ Rushing Vice
 * BT34 Making AI Tanks Fire
 * BT35 EditAnywhere vs EditDefaultsOnly
 * BT36 Adding a Quit Button
-* BT37
+* BT37 Setup Track Throttles
 * BT38
 * BT39
 * BT40
