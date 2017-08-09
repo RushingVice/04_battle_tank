@@ -42,3 +42,4 @@ Rushing Vice
 * BT31 Setting Up Projectiles
 * BT32 Using SpawnActor<>() to Spawn
 * BT33 UProjectileMovementComponent
+* BT34 Making AI Tanks Fire
