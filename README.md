@@ -48,7 +48,7 @@ Rushing Vice
 * BT37 Setup Track Throttles
 * BT38 ApplyForceAtLocation() in Action
 * BT39 Physics Materials & Friction
-* BT40
+* BT40 A Better Component Architecture
 * BT41
 * BT42
 * BT43
@@ -59,3 +59,23 @@ Rushing Vice
 * BT48
 * BT49
 * BT50
+* BT51
+* BT52
+* BT53
+* BT54
+* BT55
+* BT56
+* BT57
+* BT58
+* BT59
+* BT60
+* BT61
+* BT62
+* BT63
+* BT64
+* BT65
+* BT66
+* BT67
+* BT68
+* BT69
+* BT70
