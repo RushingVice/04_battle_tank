@@ -50,7 +50,7 @@ Rushing Vice
 * BT39 Physics Materials & Friction
 * BT40 A Better Component Architecture
 * BT41 Completing Manual Tank Movement
-* BT42
+* BT42 Dissecting RequestDirectMove()
 * BT43
 * BT44
 * BT45
