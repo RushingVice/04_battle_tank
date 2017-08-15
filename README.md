@@ -51,7 +51,7 @@ Rushing Vice
 * BT40 A Better Component Architecture
 * BT41 Completing Manual Tank Movement
 * BT42 Dissecting RequestDirectMove()
-* BT43
+* BT43 DotProduct() Vector Operator
 * BT44
 * BT45
 * BT46
